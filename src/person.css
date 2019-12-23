@@ -1,0 +1,29 @@
+.close-button{
+    height: 30px;
+    width: 60px;
+    background: red;
+    position: relative;
+    left: 10px;
+    color: white;
+    textAlign: center;
+  };
+  .edit-styles{
+    height: 30px;
+    width:60px;
+    background: orange;
+    position: relative;
+    left: 20px;
+    color: white;
+    text-align: center;
+  };
+  .done-styles{
+    height: 30px;
+    width: 60px;
+    background: green;
+    position: relative;
+    left: 20px;
+    color: white;
+    text-align: center;
+  };
+
+

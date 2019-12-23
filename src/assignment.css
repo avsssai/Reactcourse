@@ -1,0 +1,8 @@
+.character{
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    margin:1px;  
+    color: red;  
+
+}
