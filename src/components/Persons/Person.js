@@ -74,10 +74,6 @@ var person = props => {
 
   return (
     <div className="person-card">
-      {/* <label htmlFor="name">Name</label>
-            <input type="text" name="name" id="name-input" value={props.name} onChange={props.changed}/> */}
-      {/* <p > My name is {props.name},
-            and my age is {props.age}</p> */}
       {nameElement}
       
     </div>
